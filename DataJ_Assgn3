@@ -1,0 +1,5 @@
+The repository I downloaded from the LA Times is one that is used for data visualization - mapping out homeless sleeping restrictions in the city of Los Angeles. It plots places like parks, schools and daycare centers and then maps 500-foot buffers around the locations. At least 26 percent of the city would not be allowed for homeless sleeping.
+
+I think this is interesting because understanding this reposity would be useful in so many other cases of local reporting in the future -- whether that be mapping out restriction zones for sex offenders in a state or mapping out zoning restrictions to use maps to better understand a story.
+
+Questions: The code I looked through still seems foreign to me. How did they specifically type in some "buffer" command to map it out? Perhaps I will learn it in the future.
